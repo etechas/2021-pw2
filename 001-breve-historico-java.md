@@ -76,6 +76,8 @@ Em 2004, a NASA enviou um Robô para o planeta Marte, como o objetivo de mapear 
 
 Em 2007, o java é implementado em blu-rays e outras diversas ferramentas ganharam destaque no JavaOne.
 
+![Java One {w=62}](imagens/01-breve-historico-java/java-one.png)
+
 ## Java morrendo...
 
 Nos últimos anos, com o advento da computação em nuvem e microsserviços (que exigem tamanho reduzido e inicialização bastante rápida), onde containers, Kubernetes, serverless e o desenvolvimento de aplicações nativas em cloud podem entregar níveis mais altos de produtividade e eficiência, o Java começou a ficar para trás.
