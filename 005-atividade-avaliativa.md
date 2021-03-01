@@ -83,6 +83,7 @@ Crie uma classe chamada `AtividadeAvaliativa<SeuNome>` com o método **main** co
 
 `Multa de:` R$ 574,62
 
+--------------------------------------------
 
 ### Resolução
 

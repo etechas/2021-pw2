@@ -7,10 +7,13 @@ Crie uma classe chamada `ExercicioTres` com o método **main** que verifique se 
 O sistema deve cumprimentar o usuário independente da idade. Por exemplo:
 
 - Caso o usuário tenha idade mínima para dirigir, exiba:
+
 "Olá, **NOME_DO_USUARIO_AQUI**"
+
 "Você passou no nosso teste e já pode dirigir!"
 
 - Caso o usuário não tenha a idade mínima para dirigir, exiba somente o cumprimento:
+
 "Olá, **NOME_DO_USUARIO_AQUI**"
 
 ### Resolução
@@ -40,7 +43,7 @@ Crie uma classe chamada `ExercicioQuatro` com o método **main** que ajude um pe
  - Maior que 10kg = Acima do peso
  - Se tiver entre esses dois valores = Peso normal.
 
-> Utilizeo o **ELSE IF** e crie o código para suprir essa necessidade e exiba as mensagens de acordo com a lista acima!
+> Utilize o **ELSE IF** e crie o código para suprir essa necessidade e exiba as mensagens de acordo com a lista acima!
 
 ### Resolução
 
