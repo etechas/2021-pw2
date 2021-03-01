@@ -76,7 +76,7 @@ Em 2004, a NASA enviou um Robô para o planeta Marte, como o objetivo de mapear 
 
 Em 2007, o java é implementado em blu-rays e outras diversas ferramentas ganharam destaque no JavaOne.
 
-![Java One {w=62}](imagens/01-breve-historico-java/java-one.png)
+![Java One {w=62}](imagens/01-breve-historico-java/java-one.gif)
 
 ## Java morrendo...
 
