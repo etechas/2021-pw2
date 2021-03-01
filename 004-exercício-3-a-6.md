@@ -49,9 +49,9 @@ public class ExercicioQuatro {
 	
 	public static void main(String[] args) {
 		double peso = 4.5;
-		if (idade < 4) {
+		if (peso < 4) {
 			System.out.println("Abaixo do peso");
-		} else if (idade > 10) {
+		} else if (peso > 10) {
 			System.out.println("Acima do peso");
 		} else {
 			System.out.println("Peso normal");
