@@ -42,7 +42,7 @@ Crie uma classe chamada `AtividadeAvaliativa<SeuNome>` com o método **main** co
 
 #### Casos de teste
 
-`Frequência do carro:` 0,7  .
+`Frequência do carro:` 0,7 &nbsp;
 `Velocidade limite:` 120  .
 > `Velocidade do carro:` 128,6 km/h.
 > `Multa de:` R$ 127,69
