@@ -26,12 +26,14 @@ Um carro circula em uma rodovia que possui velocidade máxima de 120 Km/h e ao p
 
 
 #### Entrada
-`Frequência do carro:` 0,7  .
+`Frequência do carro:` 0,7
+
 `Velocidade limite:` 120
 
 
 #### Saída
-`Velocidade do carro:` 128,6 km/h.
+`Velocidade do carro:` 128,6 km/h
+
 `Multa de:` R$ 127,69
 
 
@@ -42,29 +44,44 @@ Crie uma classe chamada `AtividadeAvaliativa<SeuNome>` com o método **main** co
 
 #### Casos de teste
 
-Entrada
+**Entrada**
+
 `Frequência do carro:` 0,7
 
 `Velocidade limite:` 120
 
-Entrada
+**Saída**
+
 `Velocidade do carro:` 128,6 km/h
 
 `Multa de:` R$ 127,69
 
 --------------------------------------------
+**Entrada**
 
-`Frequência do carro:` 0,8  .
+`Frequência do carro:` 0,8
+
 `Velocidade limite:`	120
-> `Velocidade do carro:` 75 km/h.
-> `Multa de:` R$ 0
+
+**Saída**
+
+`Velocidade do carro:` 75 km/h
+
+`Multa de:` R$ 0
 
 --------------------------------------------
 
+**Entrada**
+
 `Frequência do carro:` 0,65  .
+
 `Velocidade limite:`	120
-> `Velocidade do carro:` 161,5 km/h.
-> `Multa de:` R$ 574,62
+
+**Saída**
+
+`Velocidade do carro:` 161,5 km/h.
+
+`Multa de:` R$ 574,62
 
 
 ### Resolução
