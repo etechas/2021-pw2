@@ -54,7 +54,7 @@ public static int tamanhoNomeCompleto(String nome, String sobrenome) {
 
 ## Exercício 11
 
-Crie o método `main` na classe `MinhasFuncoes` e exiba o resultado dos métodos `triplo()`, `metade()` e `triploDaSoma()`.
+Crie o método `main` na classe `MinhasFuncoes` e exiba o resultado dos métodos `triplo()`, `metade()`, `triploDaSoma()` e `tamanhoNomeCompleto`.
 
 ### Resolução
 
