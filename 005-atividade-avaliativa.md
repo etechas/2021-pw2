@@ -91,7 +91,19 @@ Crie uma classe chamada `AtividadeAvaliativa<SeuNome>` com o método **main** co
 public class AtividadeAvaliativaRogerioMorais {
 	
 	public static void main(String[] args) {
-		System.out.println("404 - Not Found");
+		double frequenciaCarro = 0.65;
+		int velocidadeLimite = 120;
+		
+		double velocidadeCarro = 300 * (1 / frequenciaCarro - 1);
+		System.out.println("Velocidade do carro: " + velocidadeCarro + " km/h");
+		
+		if (velocidadeCarro <= velocidadeLimite) {
+			System.out.println("Multa de: R$ 0,00");
+		} else if (velocidadeCarro <= (velocidadeLimite * 1.2)) {
+			System.out.println("Multa de: R$ 127,69");
+		} else {
+			System.out.println("Multa de: R$ 574,62");
+		}
 	}
 
 }
