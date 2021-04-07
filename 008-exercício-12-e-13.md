@@ -18,7 +18,7 @@ Crie o método `cartaoDeVisita` na classe `MinhasFuncoes` que gere um cartão de
 
 ``` java
 public static String cartaoDeVisita(String nome, String sobrenome, String profissao) {
-	return nome + " " + sobrenome + " - " + profissao;
+    return nome + " " + sobrenome + " - " + profissao;
 }
 ```
 
@@ -32,6 +32,6 @@ Escreva o método `autonomia` que recebe os parâmetros de quantidade de combust
 
 ``` java
 public static double autonomia(double quantidadeDeCombustivel, int rendimento){
-	return rendimento * quantidadeDeCombustivel;
+    return rendimento * quantidadeDeCombustivel;
 }
 ```
