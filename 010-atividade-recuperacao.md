@@ -5,6 +5,7 @@
 A Sabesp cobra um valor base de consumo de água multiplicando-se o consumo mensal (em m³) por uma tarifa dada pelas tabelas abaixo.
 
 > Social Residencial
+
 | Consumo (m³)  | Tarifa (R$)                |
 |---------------|----------------------------|
 |  0 a 10       | 9,18 p/ mês (taxa mínima)  |
@@ -15,6 +16,7 @@ A Sabesp cobra um valor base de consumo de água multiplicando-se o consumo mens
 
 
 > Normal Residencial
+
 | Consumo (m³)  | Tarifa (R$)                |
 |---------------|----------------------------|
 |  0 a 10       | 27,07 p/ mês (taxa mínima) |
